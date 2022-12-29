@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Chapter 444 Showing Custom Data in the ODO Form View</CTEXT>
+    <CTEXT>Enhancement 1G2c: Showing Custom Data in the ODO Form View</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>

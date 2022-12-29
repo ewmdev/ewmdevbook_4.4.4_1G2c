@@ -21,7 +21,9 @@ CLASS ZCL_IM_DLV_UI_SCREEN IMPLEMENTATION.
 
   METHOD /scwm/if_ex_dlv_ui_screen~define_item_extension.
 
-* Set constants as declared in class attributes
+    BREAK-POINT ID zewmdevbook_1g2c.
+
+    "Set constants as declared in class attributes
     ev_repid = c_repid_ewm_dlv_ui. "'SAPLZ_EWM_DLV_UI'
     ev_dynnr = c_dynnr_1000.       "'1000'
 
